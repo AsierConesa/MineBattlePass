@@ -1,0 +1,7 @@
+com\bigsmall\minebattlepass\OnPlayerChat.class
+com\bigsmall\minebattlepass\OnPlayerJoin.class
+com\bigsmall\minebattlepass\TabComplete.class
+com\bigsmall\minebattlepass\Main.class
+com\bigsmall\minebattlepass\Utilities.class
+com\bigsmall\minebattlepass\OnInventoryClick.class
+com\bigsmall\minebattlepass\Comandos.class

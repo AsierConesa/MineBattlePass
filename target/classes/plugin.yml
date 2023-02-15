@@ -1,0 +1,14 @@
+api-version: 1.19
+name: MineBattlePass
+author: BigSmall_8
+version: 1.0
+main: com.bigsmall.minebattlepass.Main
+descripcion: Easy Battle pass for your minecraft server!
+commands:
+    level:
+        description: Usa /level para abrir el pase de batalla
+        usage: /level
+    mbp:
+        description: Usa /mbp para ver la lista de comandos
+        usage: /mbp
+depends: UMLEconomy
